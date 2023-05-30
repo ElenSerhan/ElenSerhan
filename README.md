@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElenSerhan
 - 👀 I work with cloud technologies on day-to-day basis
 - 🌱 I’m currently learning Machine Learning and Frontend Development
-- 💞️ My next goals are to contributing to open-source
+- 💞️ One of my next goals is to contribute to an open-source repository
 - 📫 You can reach me on my email alanserhan@outlook.com
 
 <!---
