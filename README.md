@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ElenSerhan
-- 👀 I’m interested in Android App Development and Game Dev
+- 👀 I work with cloud technologies on day-to-day basis
 - 🌱 I’m currently learning Machine Learning and Frontend Development
-- 💞️ I’m looking to collaborate on any project that would benefit my knowledge
-- 📫 You can reach me on my email alanserhan@outlook.ie
+- 💞️ My next goals are to contributing to open-source
+- 📫 You can reach me on my email alanserhan@outlook.com
 
 <!---
 ElenSerhan/ElenSerhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
